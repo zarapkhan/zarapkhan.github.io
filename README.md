@@ -1,2 +1,2 @@
-# zarapkhan.gitub.io
+# zarapkhan.github.io
 My super cool website!
