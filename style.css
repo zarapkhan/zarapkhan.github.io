@@ -7,7 +7,17 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  color: floralwhite;
+  text-align: center;
+}
+
+.lead img {
+    width: 320px;
+    border-radius: 50%;
+    }
+
 p {
-  font-family: verdana;
-  font-size: 12px;
+  font-family: Georgia;
+  font-size: 18px;
 }
